@@ -16,3 +16,7 @@ CONFIG_FILE=~/.zshrc source install.sh  # mac
 or
 CONFIG_FILE=~/.bashrc source install.sh # ubuntu
 ```
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
