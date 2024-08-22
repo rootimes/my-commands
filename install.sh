@@ -31,5 +31,4 @@ done
 
 # 重新加載配置文件
 source "$CONFIG_FILE"
-echo "Configuration reloaded."
 echo "Installation completed!"
