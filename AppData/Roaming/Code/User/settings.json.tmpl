@@ -1,0 +1,3 @@
+{{- $common := include "vscode/common.json" | fromJson -}}
+{{- $platform := include "vscode/windows/settings.json" | fromJson -}}
+{{ mergeOverwrite $common $platform | toPrettyJson }}

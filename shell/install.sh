@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # 加載配置文件
-source ./config.sh
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/config.sh"
 
 # 函數：檢查並增加 alias
 add_alias_if_not_exists() {
