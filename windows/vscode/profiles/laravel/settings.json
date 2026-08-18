@@ -1,0 +1,16 @@
+{
+    "laravel-pint.enable": true,
+    "[php]": {
+        "editor.defaultFormatter": "open-southeners.laravel-pint"
+    },
+    "cSpell.userWords": [
+        "Flowframe",
+        "Heroicon",
+        "Infolist",
+        "Infolists",
+        "debugbar",
+        "laravel",
+        "webmvc"
+    ],
+    "workbench.activityBar.location": "bottom"
+}

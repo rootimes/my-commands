@@ -1,0 +1,10 @@
+{
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "remote.SSH.remotePlatform": {
+        "ge60-server": "linux"
+    },
+    "workbench.activityBar.location": "bottom",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "java.editor.reloadChangedSources": "auto",
+    "java.sources.organizeImports.starThreshold": 999,
+    "java.sources.organizeImports.staticStarThreshold": 999,
+    "cSpell.userWords": [
+        "Configurer",
+        "HibernateJpaVendorAdapter",
+        "Hikari",
+        "Pageable",
+        "databind",
+        "fasterxml",
+        "hamcrest",
+        "javax",
+        "jayway",
+        "logback",
+        "mockmvc",
+        "springdoc",
+        "springframework",
+        "zaxxer"
+    ],
+    "workbench.activityBar.location": "bottom",
+    "git.openRepositoryInParentFolders": "never"
+}

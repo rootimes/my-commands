@@ -1,7 +1,9 @@
 README.md
 git
+linux
 shell
 vscode
+windows
 
 {{ if ne .chezmoi.os "windows" }}
 AppData

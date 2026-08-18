@@ -1,0 +1,25 @@
+[
+    "aaron-bond.better-comments",
+    "asvetliakov.vscode-neovim",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "gruntfuggly.todo-tree",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "ms-azuretools.vscode-containers",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.extension-test-runner",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker",
+    "sumneko.lua",
+    "waderyan.gitblame"
+]
+

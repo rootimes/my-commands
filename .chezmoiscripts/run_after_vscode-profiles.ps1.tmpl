@@ -1,0 +1,18 @@
+{{ if eq .chezmoi.os "windows" -}}
+[CmdletBinding()]
+param()
+
+$ErrorActionPreference = "Stop"
+$applyScript = Join-Path {{ .chezmoi.sourceDir | quote }} "windows\vscode\apply-profile.ps1"
+
+if (-not (Test-Path -LiteralPath $applyScript)) {
+    throw "VS Code Profile apply script not found: $applyScript"
+}
+
+$applyArguments = @("all")
+if ($env:CHEZMOI_VSCODE_PROFILES_DRY_RUN -eq "1") {
+    $applyArguments += "-DryRun"
+}
+
+& $applyScript @applyArguments
+{{ end -}}
