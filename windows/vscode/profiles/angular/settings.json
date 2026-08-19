@@ -1,5 +1,4 @@
 {
-    "workbench.activityBar.location": "bottom",
     "[dockercompose].editor.defaultFormatter": "ms-azuretools.vscode-containers",
     "[html].editor.defaultFormatter": "vscode.html-language-features",
     "[javascript].editor.defaultFormatter": "vscode.typescript-language-features",
@@ -15,10 +14,32 @@
     "chat.viewSessions.orientation": "stacked",
     "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
     "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose",
-    "cSpell.userWords": ["adoc","asciidoctor","bigtwo","dbml","diffplug","healthcheck","innodb","leetcode","logicsolutions","mysqld","nums","restdocs","rootimes","sectnums","shopee","sqlpackage","tinyint","toclevels","varchar","webapps"],
+    "cSpell.userWords": [
+        "adoc",
+        "asciidoctor",
+        "bigtwo",
+        "dbml",
+        "diffplug",
+        "healthcheck",
+        "innodb",
+        "leetcode",
+        "logicsolutions",
+        "mysqld",
+        "nums",
+        "restdocs",
+        "rootimes",
+        "sectnums",
+        "shopee",
+        "sqlpackage",
+        "tinyint",
+        "toclevels",
+        "varchar",
+        "webapps"
+    ],
     "debug.console.fontFamily": "FiraMono Nerd Font Mono",
     "diffEditor.ignoreTrimWhitespace": false,
     "docker.extension.enableComposeLanguageServer": false,
+    "editor.codeLensFontFamily": "FiraMono Nerd Font Mono",
     "editor.cursorStyle": "underline",
     "editor.cursorSurroundingLines": 10,
     "editor.fontFamily": "FiraMono Nerd Font Mono",
@@ -29,21 +50,33 @@
     "editor.minimap.enabled": false,
     "editor.overtypeCursorStyle": "underline",
     "editor.peekWidgetDefaultFocus": "editor",
-    "editor.rulers": [{"color":"#d6eaf866","column":80},{"color":"#85c1e966","column":100},{"color":"#2E86C166","column":120}],
+    "editor.rulers": [
+        {
+            "color": "#d6eaf866",
+            "column": 80
+        },
+        {
+            "color": "#85c1e966",
+            "column": 100
+        },
+        {
+            "color": "#2E86C166",
+            "column": 120
+        }
+    ],
     "editor.tabCompletion": "on",
     "explorer.confirmDelete": false,
+    "extensions.experimental.affinity": {
+        "asvetliakov": {
+            "vscode-neovim": 1
+        },
+        "asvetliakov.vscode-neovim": 1
+    },
     "extensions.experimental.affinity.asvetliakov.vscode-neovim": 1,
     "git.openRepositoryInParentFolders": "never",
-    "github.copilot.enable.*": true,
-    "github.copilot.enable.dockercompose": true,
-    "github.copilot.enable.java": true,
-    "github.copilot.enable.markdown": true,
-    "github.copilot.enable.plaintext": true,
-    "github.copilot.enable.scminput": false,
     "github.copilot.nextEditSuggestions.enabled": false,
-    "gitlens.ai.model": "vscode",
-    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
-    "keyboard.dispatch": "keyCode",
+    "interactiveSession.editor.fontFamily": "FiraMono Nerd Font Mono",
+    "markdown.preview.fontFamily": "FiraMono Nerd Font Mono",
     "notebook.markup.fontFamily": "FiraMono Nerd Font Mono",
     "notebook.output.fontFamily": "FiraMono Nerd Font Mono",
     "redhat.telemetry.enabled": true,
@@ -58,20 +91,17 @@
     "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontFamily": "FiraMono Nerd Font Mono",
     "terminal.integrated.mouseWheelScrollSensitivity": 3,
+    "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
     "update.mode": "none",
     "vscode-neovim.compositeKeys.jj.command": "vscode-neovim.escape",
-    "vscode-neovim.ctrlKeysForNormalMode": ["a","b","c","e","f","i","o","r","t","u","v","w","x","y","right","left","up","down","backspace","delete"],
     "vsicons.dontShowNewVersionMessage": true,
     "window.menuBarVisibility": "classic",
+    "workbench.activityBar.location": "bottom",
     "workbench.diffEditorAssociations.*.sql": "default",
-    "workbench.editorAssociations": {"*.copilotmd":"vscode.markdown.preview.editor","*.sql":"default"},
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.sql": "default"
+    },
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.secondarySideBar.defaultVisibility": "hidden",
-    "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
-    "extensions.experimental.affinity": {
-        "asvetliakov": {
-            "vscode-neovim": 1
-        },
-        "asvetliakov.vscode-neovim": 1
-    }
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
 }

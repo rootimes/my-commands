@@ -1,8 +1,9 @@
 [
     "aaron-bond.better-comments",
+    "asvetliakov.vscode-neovim",
     "ms-azuretools.vscode-containers",
     "ms-azuretools.vscode-docker",
-    "ms-vscode.remote-explorer",
     "ms-vscode-remote.remote-ssh",
-    "ms-vscode-remote.remote-ssh-edit"
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer"
 ]

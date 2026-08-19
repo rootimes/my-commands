@@ -7,10 +7,10 @@
     "mhutchie.git-graph",
     "ms-azuretools.vscode-containers",
     "ms-azuretools.vscode-docker",
-    "ms-vscode.remote-explorer",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-wsl",
+    "ms-vscode.remote-explorer",
     "oderwat.indent-rainbow",
     "pkief.material-icon-theme",
     "redhat.java",
@@ -26,6 +26,5 @@
     "vscjava.vscode-maven",
     "vscjava.vscode-spring-boot-dashboard",
     "vscjava.vscode-spring-initializr",
-    "waderyan.gitblame",
-    "mikestead.dotenv"
+    "waderyan.gitblame"
 ]

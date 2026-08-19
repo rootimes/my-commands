@@ -1,10 +1,23 @@
 {
-    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.editor.fontFamily": "FiraMono Nerd Font Mono",
+    "chat.fontFamily": "FiraMono Nerd Font Mono",
+    "debug.console.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.codeLensFontFamily": "FiraMono Nerd Font Mono",
+    "editor.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.inlineSuggest.fontFamily": "FiraMono Nerd Font Mono",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "interactiveSession.editor.fontFamily": "FiraMono Nerd Font Mono",
+    "markdown.preview.fontFamily": "FiraMono Nerd Font Mono",
+    "notebook.markup.fontFamily": "FiraMono Nerd Font Mono",
+    "notebook.output.fontFamily": "FiraMono Nerd Font Mono",
     "remote.SSH.remotePlatform": {
         "ge60-server": "linux"
     },
+    "scm.inputFontFamily": "FiraMono Nerd Font Mono",
+    "terminal.integrated.fontFamily": "FiraMono Nerd Font Mono",
     "workbench.activityBar.location": "bottom",
-    "extensions.experimental.affinity": {
-        "asvetliakov.vscode-neovim": 1
-    }
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
 }

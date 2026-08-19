@@ -2,32 +2,48 @@
     "[java]": {
         "editor.defaultFormatter": "redhat.java"
     },
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    },
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },
-    "java.editor.reloadChangedSources": "auto",
-    "java.sources.organizeImports.starThreshold": 999,
-    "java.sources.organizeImports.staticStarThreshold": 999,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "chat.editor.fontFamily": "FiraMono Nerd Font Mono",
+    "chat.fontFamily": "FiraMono Nerd Font Mono",
     "cSpell.userWords": [
         "Configurer",
-        "HibernateJpaVendorAdapter",
-        "Hikari",
-        "Pageable",
         "databind",
         "fasterxml",
         "hamcrest",
+        "HibernateJpaVendorAdapter",
+        "Hikari",
         "javax",
         "jayway",
         "logback",
         "mockmvc",
+        "Pageable",
         "springdoc",
         "springframework",
         "zaxxer"
     ],
-    "workbench.activityBar.location": "bottom",
+    "debug.console.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.codeLensFontFamily": "FiraMono Nerd Font Mono",
+    "editor.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "FiraMono Nerd Font Mono",
+    "editor.inlineSuggest.fontFamily": "FiraMono Nerd Font Mono",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
     "git.openRepositoryInParentFolders": "never",
-    "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe"
+    "interactiveSession.editor.fontFamily": "FiraMono Nerd Font Mono",
+    "java.editor.reloadChangedSources": "auto",
+    "java.sources.organizeImports.starThreshold": 999,
+    "java.sources.organizeImports.staticStarThreshold": 999,
+    "markdown.preview.fontFamily": "FiraMono Nerd Font Mono",
+    "notebook.markup.fontFamily": "FiraMono Nerd Font Mono",
+    "notebook.output.fontFamily": "FiraMono Nerd Font Mono",
+    "scm.inputFontFamily": "FiraMono Nerd Font Mono",
+    "terminal.integrated.fontFamily": "FiraMono Nerd Font Mono",
+    "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
+    "workbench.activityBar.location": "bottom"
 }
