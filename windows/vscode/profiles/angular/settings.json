@@ -93,7 +93,11 @@
     "terminal.integrated.mouseWheelScrollSensitivity": 3,
     "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
     "update.mode": "none",
-    "vscode-neovim.compositeKeys.jj.command": "vscode-neovim.escape",
+    "vscode-neovim.compositeKeys": {
+        "jj": {
+            "command": "vscode-neovim.escape"
+        }
+    },
     "vsicons.dontShowNewVersionMessage": true,
     "window.menuBarVisibility": "classic",
     "workbench.activityBar.location": "bottom",

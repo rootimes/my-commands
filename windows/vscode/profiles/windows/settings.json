@@ -12,6 +12,11 @@
     "notebook.output.fontFamily": "FiraMono Nerd Font Mono",
     "scm.inputFontFamily": "FiraMono Nerd Font Mono",
     "terminal.integrated.fontFamily": "FiraMono Nerd Font Mono",
+    "vscode-neovim.compositeKeys": {
+        "jj": {
+            "command": "vscode-neovim.escape"
+        }
+    },
     "workbench.activityBar.location": "bottom",
     "workbench.secondarySideBar.defaultVisibility": "hidden"
 }

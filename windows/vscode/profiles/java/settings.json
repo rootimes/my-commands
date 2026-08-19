@@ -45,5 +45,10 @@
     "scm.inputFontFamily": "FiraMono Nerd Font Mono",
     "terminal.integrated.fontFamily": "FiraMono Nerd Font Mono",
     "todo-tree.ripgrep.ripgrep": "C:\\Users\\ru\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
+    "vscode-neovim.compositeKeys": {
+        "jj": {
+            "command": "vscode-neovim.escape"
+        }
+    },
     "workbench.activityBar.location": "bottom"
 }
